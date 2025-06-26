@@ -3,7 +3,7 @@
 </h3>
 
 <h2 align="center">
-I'm a Mechatronical Engineer with great interest in automotive industry, sensor/embedded systems and IoT.
+I'm a Mechatronics Engineer with great interest in automotive industry, sensor/embedded systems and IoT.
 </h2>
 
 ### Here are some of my skills
